@@ -64,16 +64,10 @@
   <img src="https://streak-stats.demolab.com?user=Cinpean&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-## <img src="https://raw.githubusercontent.com/Cinpean/Cinpean/output/snake.svg" alt="Snake animation" />
-
-###
 <!--
+ <img src="https://raw.githubusercontent.com/Cinpean/Cinpean/output/snake.svg" alt="Snake animation" />
 **Cinpean/Cinpean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
